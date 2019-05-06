@@ -4,32 +4,22 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Houston Water Watch](http://www.houstonwaterwatch.com/)
+<img src="images/houstonwaterwatch1.png?raw=true"/>
+<img src="images/houstonwaterwatch2.png?raw=true"/>
+<img src="images/houstonwaterwatch3.jpg?raw=true"/>
+---
+[StockDash](http://www.stockdash.live/)
+<img src="images/stockdash.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Texas Water Watch](http://www.texaswaterwatch.com/)
+<img src="images/texaswaterwatch.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[TweetAnalyze](http://www.http://sleepy-ravine-85439.herokuapp.com/)
+<img src="images/tweetanalyze.png?raw=true"/>
 ---
+[Ghana Houston Chamber of Commerce](http:/http://www.ghanahoustonchamber.org/)
+<img src="images/ghcc.png?raw=true"/>
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
