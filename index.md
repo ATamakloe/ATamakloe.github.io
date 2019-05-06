@@ -17,9 +17,9 @@
 <img src="images/texaswaterwatch.png?raw=true"/>
 
 ---
-[TweetAnalyze](http://www.http://sleepy-ravine-85439.herokuapp.com/)
+[TweetAnalyze](http://www.sleepy-ravine-85439.herokuapp.com/)
 <img src="images/tweetanalyze.png?raw=true"/>
 ---
-[Ghana Houston Chamber of Commerce](http:/http://www.ghanahoustonchamber.org/)
+[Ghana Houston Chamber of Commerce](http://www.ghanahoustonchamber.org/)
 <img src="images/ghcc.png?raw=true"/>
 
