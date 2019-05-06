@@ -1,11 +1,11 @@
 title: Albert Tamakloe
 logo: "/images/yourface.jpg?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Junior Web Developer specializing in Javascript development 
   <br><br>
-  Second description 
+  Located in Houston, Texas
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/alberttamakloe//">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
