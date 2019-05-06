@@ -12,7 +12,7 @@
 [Texas Water Watch: Water level map developed with Javascript](http://www.texaswaterwatch.com/)
 <img src="images/texaswaterwatch.png?raw=true"/>
 ---
-[TweetAnalyze: Real-time tweet semantic analysis developed with NodeJS, Express, Socket.IO, and Javascript](sleepy-ravine-85439.herokuapp.com/)
+[TweetAnalyze: Real-time tweet semantic analysis developed with NodeJS, Express, Socket.IO, and Javascript](http://sleepy-ravine-85439.herokuapp.com/)
 <img src="images/tweetanalyze.png?raw=true"/>
 ---
 [Ghana Houston Chamber of Commerce: Chamber of Commerce website developed using Wordpress, Javascript,and PHP](http://www.ghanahoustonchamber.org/)
